@@ -1,2 +1,2 @@
 # Coffe Shop Menu
-Homework 3 of CalHacks iOS Decal
+Starter code of Homework 3 of CalHacks iOS Decal
